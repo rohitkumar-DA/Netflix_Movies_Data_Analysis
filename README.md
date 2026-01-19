@@ -13,6 +13,7 @@ Netflix relies heavily on data science, AI, and machine learning to understand v
 
 ## Conclusion
 
+
 #### Q1: What is the most frequent genre in the dataset?
 Drama genre is the most frequent genre in our dataset and has appeared more than 14% of the times
 among 19 other genres.
