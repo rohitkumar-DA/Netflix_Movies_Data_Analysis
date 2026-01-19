@@ -2,7 +2,7 @@
 
 ## Business Problem
 
-Netflix is known for its work in data science, AI, and ML, particularly for building strong recommendation models and algorithms that understand customer behavior and patterns. Suppose you are working in a data-driven job role, and you have a dataset of more than 9,000 movies. You need to solve the following questions to help the company make informed business decisions accordingly.
+Netflix relies heavily on data science, AI, and machine learning to understand viewer preferences and deliver highly personalized content recommendations. However, with a rapidly growing content library, it becomes increasingly challenging to identify the key factors that drive user engagement and influence viewing behavior. In this project, the business problem is to analyze a dataset of over 9,000 movies to uncover meaningful patterns related to genres, ratings, popularity, and content attributes that impact customer preferences. The goal is to transform raw movie data into actionable insights that support informed business decisions, enhance recommendation accuracy, optimize content strategy, and ultimately improve user satisfaction and retention on the platform.
 
 1. What is the most frequent genre of movies released on Netflix?
 2. Which has highest votes in vote avg column?
